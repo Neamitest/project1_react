@@ -1,0 +1,52 @@
+
+.footer{
+    background-color: #a82d49;
+    width: 100%;
+    height: auto;
+    min-height: 260px;
+    font-family: 'Poppins', sans-serif;
+    padding: 27px 0 0 0;
+}
+
+.footer .listLink ,.listIcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0 0 0;
+}
+.footer .listLink li,.listIcon li{
+    list-style: none;
+    color: #fff;
+    font-size: 18px;
+    text-transform: capitalize ;
+    margin: 10px;
+    cursor: pointer;
+   
+}
+.listIcon li a{
+    color: #fff;
+   
+}
+.listIcon li a i{
+    font-size: 30px;
+}
+.footer p{
+    font-size: 15px;
+    color: #fff;
+    text-align: center;
+    padding: 0 0 10px 0;
+}
+@media screen and (max-width:420px) {
+    .footer .listLink li,.listIcon li{
+        font-size: 16px;
+    }
+    .listIcon li a i{
+        font-size: 25px;
+    }
+    .footer p{
+        font-size: 14px;
+         
+        padding: 0 0 10px 0;
+    }
+    
+}
