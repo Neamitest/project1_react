@@ -1,6 +1,6 @@
 
 header{
-    background: url('../../img/header.jpg') center no-repeat;
+    background: url('../img/header-removebg.png') center no-repeat;
     background-size: cover;
     width: 100%;
     min-width:100% ;
@@ -15,6 +15,7 @@ header h2{
     line-height: 60px;
     font-weight: bold;
     width: 70%;
+    margin-top: 40px;
     
 }
 header .menu{

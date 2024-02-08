@@ -1,0 +1,231 @@
+{
+  "products": [
+    {
+      "title": "Burger au bacon",
+      "price": "4.5",
+      "description": "Un bon hamburger maison avec du cheddar et du bacon, pour se régaler comme à New York !",
+      "category": "Hamburger",
+      "image": "https://img.mesrecettesfaciles.fr/wp-content/uploads/2017/02/baconburger-1000x500.webp",
+      "id": 2,
+      "cuisine": "américaine",
+      "time": "50"
+    },
+    {
+      "title": "Cheeseburger",
+      "price": "5",
+      "description": "La recette du véritable cheeseburger à l'américaine avec ce burger maison facile et rapide à préparer, que vous pourrez accompagner de frites !",
+      "category": "Hamburger",
+      "image": "https://img.mesrecettesfaciles.fr/2019-05/cheeseburger-16354-1000x500.webp",
+      "id": 3,
+      "cuisine": "américaine",
+      "time": "30"
+    },
+    {
+      "title": "Burgers aux filets de poisson",
+      "price": "4",
+      "description": "Un beau hamburger maison version poisson pour un déjeuner rapide en famille, à accompagner de frites bien sûr !",
+      "category": "Hamburger",
+      "image": "https://img.mesrecettesfaciles.fr/wp-content/uploads/2017/08/burgerfiletsdepoisson-1000x500.webp",
+      "id": 4,
+      "cuisine": "américaine",
+      "time": "30"
+    },
+    {
+      "title": "Fish burger",
+      "price": "3",
+      "description": "Un délicieux hamburger au poisson pané, on adore, et les enfants aussi !",
+      "category": "Hamburger",
+      "image": "https://img.mesrecettesfaciles.fr/wp-content/uploads/2017/02/fishburger-1000x500.webp",
+      "id": 5,
+      "cuisine": "américaine",
+      "time": "25"
+    },
+    {
+      "title": "Burgers aux filets de poisson",
+      "price": "5",
+      "description": "Un beau hamburger maison version poisson pour un déjeuner rapide en famille, à accompagner de frites bien sûr !",
+      "category": "Tajine",
+      "image": "https://img.mesrecettesfaciles.fr/wp-content/uploads/2017/08/burgerfiletsdepoisson-1000x500.webp",
+      "id": 9,
+      "cuisine": "américaine",
+      "time": "30"
+    },
+    {
+      "title": "Tajine de poulet aux pruneaux",
+      "price": "10",
+      "description": "Une recette très facile de tajine de poulet aux carottes et pommes de terre pour un repas d'inspiration marocaine. Un véritable régal !",
+      "category": "Tajine",
+      "image": "https://img.mesrecettesfaciles.fr/wp-content/uploads/2015/05/Tajine-de-poulet-aux-pruneaux.webp",
+      "id": 7,
+      "cuisine": "marocaine",
+      "time": "135"
+    },
+    {
+      "name": "Tajine de poulet aux petits pois et pommes de terre",
+      "price": "6",
+      "description": "Ce tajine de poulet aux petits pois et pommes de terre, est une recette orientale très facile à préparer et délicieuse !",
+      "category": "Hamburger",
+      "image": "https://img.mesrecettesfaciles.fr/2023-01/tajine-de-poulet-aux-petits-pois-et-pommes-de-terre-enl2.webp",
+      "cuisine": "marocaine",
+      "time": "45",
+      "id": 8
+    },
+    {
+      "title": "Tajine kefta pommes de terre",
+      "price": "7",
+      "description": "Offrez-vous un repas original grâce à cette recette de tajine kefta pommes de terre. Ce plat unique est idéal pour apporter de la chaleur et du réconfort à toute la famille lorsque le froid s’installe.",
+      "category": "Tajine",
+      "image": "https://img.mesrecettesfaciles.fr/2022-12/tajine-kefta-pommes-de-terre-my12.webp",
+      "id": 10,
+      "cuisine": "marocaine",
+      "time": "80"
+    },
+    {
+      "title": "Tajine de poulet aux pommes de terre",
+      "price": "6",
+      "description": "Voyagez en orient avec cette recette de tajine de poulet et pommes de terre à la saveur épicée. Il sera parfait pour impressionner vos invités ou pour simplement faire plaisir à toute la famille !",
+      "category": "Tajine",
+      "image": "https://img.mesrecettesfaciles.fr/2023-02/tajine-de-poulet-et-pommes-de-terre-j8j2.webp",
+      "id": 11,
+      "cuisine": "marocaine",
+      "time": "50"
+    },
+    {
+      "title": "Tajine d’agneau aux épices et fruits secs",
+      "price": "9",
+      "description": "Un plat savoureux et chaleureux à déguster en hiver, aux parfums d'épices orientales, riches en fruits secs : pruneaux, abricots secs, amandes... Un vrai délice !",
+      "category": "Tajine",
+      "image": "https://img.mesrecettesfaciles.fr/2020-02/tajine-dagneau-aux-epices-et-fruits-secs-1.webp",
+      "cuisine": "marocaine",
+      "time": "105",
+      "id": 12
+    }
+  ],
+  "categories": [
+    "Hamburger ",
+    "Tajine "
+  ],
+  "orders": [
+    {
+      "idProduct": 3,
+      "name": "abdo",
+      "email": "abdo@gmail.com",
+      "adress": "safi",
+      "count": 1,
+      "tel": "0978898",
+      "id": 1
+    },
+    {
+      "idProduct": 7,
+      "name": "ahmed",
+      "email": "ahmed@gmail.com",
+      "adress": "safi",
+      "count": "2",
+      "tel": "0641525252",
+      "id": 2,
+      "confirmOrder": true
+    },
+    {
+      "idProduct": 14,
+      "name": "khalid",
+      "email": "khalid@gmail.com",
+      "adress": "safi",
+      "count": 1,
+      "tel": "89669868",
+      "date": "2023-11-26T11:01:54.668Z",
+      "id": 3,
+      "confirmOrder": true
+    },
+    {
+      "idProduct": 9,
+      "name": "salma",
+      "email": "salma@gmail.com",
+      "adress": "ma3art",
+      "count": "3",
+      "tel": "068068987",
+      "date": "2023-11-27T13:02:19.525Z",
+      "id": 4,
+      "confirmOrder": true
+    },
+    {
+      "idProduct": 3,
+      "name": "hamid",
+      "email": "llkraa@gmail.com",
+      "adress": "safi",
+      "count": "3",
+      "tel": "06666666252",
+      "date": "2023-12-01T09:04:44.179Z",
+      "id": 5,
+      "confirmOrder": true
+    },
+    {
+      "idProduct": 3,
+      "name": "amine",
+      "email": "amine@gmail.com",
+      "adress": "dxeexw4",
+      "count": 1,
+      "tel": "837837373",
+      "date": "2023-12-01T09:20:32.299Z",
+      "id": 6
+    },
+    {
+      "idProduct": 5,
+      "name": "abdo",
+      "email": "abdo@gmail.com",
+      "adress": "safi",
+      "count": 1,
+      "tel": "939822928",
+      "date": "2023-12-01T14:22:14.412Z",
+      "confirmOrder": true,
+      "id": 7
+    },
+    {
+      "idProduct": 3,
+      "name": "abdo12",
+      "email": "cv@gmail.com",
+      "adress": "safi",
+      "count": 1,
+      "tel": "-39833883",
+      "date": "2023-12-15T11:50:01.418Z",
+      "confirmOrder": false,
+      "id": 8
+    },
+    {
+      "idProduct": 10,
+      "name": "fadil",
+      "email": "fadil@gmail.com",
+      "adress": "safi",
+      "count": "0",
+      "tel": "83997866",
+      "date": "2023-12-15T11:57:44.204Z",
+      "confirmOrder": true,
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "idUser": 1,
+      "name": "abdo",
+      "password": 123
+    },
+    {
+      "id": 2,
+      "idUser": 0,
+      "name": "karim",
+      "password": 123
+    },
+    {
+      "id": 3,
+      "idUser": 0,
+      "name": "amine",
+      "password": 123
+    },
+    {
+      "id": 4,
+      "idUser": 0,
+      "name": "ahmed",
+      "password": 123
+    }
+  ]
+}
